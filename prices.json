@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "description": "جرام عيار ٢٤",
+        "askValue": 1897,
+        "bidValue": 1862,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 35,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.904 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.159 +00:00"
+    },
+    {
+        "id": 2,
+        "description": "جرام عيار ٢٢",
+        "askValue": 1739,
+        "bidValue": 1706,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 33,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.909 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.154 +00:00"
+    },
+    {
+        "id": 3,
+        "description": "جرام عيار ٢١",
+        "askValue": 1660,
+        "bidValue": 1630,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 30,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.915 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.125 +00:00"
+    },
+    {
+        "id": 4,
+        "description": "جرام عيار ١٨",
+        "askValue": 1423,
+        "bidValue": 1396,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 27,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.920 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.148 +00:00"
+    },
+    {
+        "id": 5,
+        "description": "جرام عيار ١٤",
+        "askValue": 1107,
+        "bidValue": 1087,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 20,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.925 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.142 +00:00"
+    },
+    {
+        "id": 6,
+        "description": "جرام عيار ١٢",
+        "askValue": 949,
+        "bidValue": 932,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 17,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.931 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.137 +00:00"
+    },
+    {
+        "id": 7,
+        "description": "جنيه دهب",
+        "askValue": 13280,
+        "bidValue": 13280,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 0,
+        "difference": 0,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.936 +00:00",
+        "updatedAt": "2022-12-30 20:02:43.132 +00:00"
+    },
+    {
+        "id": 8,
+        "description": "سعر الدولار",
+        "askValue": 24.77001,
+        "bidValue": 24.75,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 1,
+        "difference": 0,
+        "allowDifference": 0,
+        "createdAt": "2022-05-10 14:48:47.941 +00:00",
+        "updatedAt": "2022-12-31 00:00:04.903 +00:00"
+    },
+    {
+        "id": 9,
+        "description": "الاونصة",
+        "askValue": 1824.3233318085647,
+        "bidValue": 1823.8233318085647,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 1,
+        "difference": 0.5,
+        "allowDifference": 1,
+        "createdAt": "2022-05-10 14:48:47.946 +00:00",
+        "updatedAt": "2022-12-30 22:05:00.920 +00:00"
+    },
+    {
+        "id": 10,
+        "description": "سعر الدولار 2",
+        "askValue": 24.77001,
+        "bidValue": 20,
+        "allowUpdatesBid": 0,
+        "allowUpdatesAsk": 1,
+        "difference": 0,
+        "allowDifference": 0,
+        "createdAt": "2022-05-10 14:48:47.952 +00:00",
+        "updatedAt": "2022-12-31 00:00:04.920 +00:00"
+    }
+]
